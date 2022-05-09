@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Basicprograms\Basicprograms\bin\Debug\net6.0\Basicprograms.exe
+C:\Users\DELL\source\repos\Basicprograms\Basicprograms\bin\Debug\net6.0\Basicprograms.deps.json
+C:\Users\DELL\source\repos\Basicprograms\Basicprograms\bin\Debug\net6.0\Basicprograms.runtimeconfig.json
+C:\Users\DELL\source\repos\Basicprograms\Basicprograms\bin\Debug\net6.0\Basicprograms.dll
+C:\Users\DELL\source\repos\Basicprograms\Basicprograms\bin\Debug\net6.0\Basicprograms.pdb
+C:\Users\DELL\source\repos\Basicprograms\Basicprograms\obj\Debug\net6.0\Basicprograms.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Basicprograms\Basicprograms\obj\Debug\net6.0\Basicprograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Basicprograms\Basicprograms\obj\Debug\net6.0\Basicprograms.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Basicprograms\Basicprograms\obj\Debug\net6.0\Basicprograms.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Basicprograms\Basicprograms\obj\Debug\net6.0\Basicprograms.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Basicprograms\Basicprograms\obj\Debug\net6.0\Basicprograms.dll
+C:\Users\DELL\source\repos\Basicprograms\Basicprograms\obj\Debug\net6.0\refint\Basicprograms.dll
+C:\Users\DELL\source\repos\Basicprograms\Basicprograms\obj\Debug\net6.0\Basicprograms.pdb
+C:\Users\DELL\source\repos\Basicprograms\Basicprograms\obj\Debug\net6.0\Basicprograms.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Basicprograms\Basicprograms\obj\Debug\net6.0\ref\Basicprograms.dll
